@@ -1,0 +1,8 @@
+C:\CHSRMembershipProvider\CHSRMembershipProvider\bin\Release\CHSRMembershipProvider.dll
+C:\CHSRMembershipProvider\CHSRMembershipProvider\bin\Release\CHSRMembershipProvider.pdb
+C:\CHSRMembershipProvider\CHSRMembershipProvider\bin\Release\CHSRMembershipProvider.xml
+C:\CHSRMembershipProvider\CHSRMembershipProvider\obj\Release\CHSRMembershipProvider.Resources.resources
+C:\CHSRMembershipProvider\CHSRMembershipProvider\obj\Release\CHSRMembershipProvider.dll
+C:\CHSRMembershipProvider\CHSRMembershipProvider\obj\Release\CHSRMembershipProvider.xml
+C:\CHSRMembershipProvider\CHSRMembershipProvider\obj\Release\CHSRMembershipProvider.pdb
+C:\CHSRMembershipProvider\CHSRMembershipProvider\obj\Release\CHSRMembershipProvider.vbproj.GenerateResource.Cache

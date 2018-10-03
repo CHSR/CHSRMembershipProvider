@@ -40,7 +40,8 @@ C:\Users\cp932249\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider
 C:\Users\cp932249\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\bin\Debug\CHSRMembershipProvider.pdb
 C:\Users\cp932249\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\bin\Debug\CHSRMembershipProvider.xml
 C:\Users\cp932249\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\obj\Debug\CHSRMembershipProvider.Resources.resources
-C:\Users\cp932249\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\obj\Debug\CHSRMembershipProvider.vbproj.GenerateResource.Cache
+C:\Users\cp932249\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\obj\Debug\CHSRMembershipProvider.vbproj.GenerateResource.cache
+C:\Users\cp932249\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\obj\Debug\CHSRMembershipProvider.vbproj.CoreCompileInputs.cache
 C:\Users\cp932249\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\obj\Debug\CHSRMembershipProvider.dll
 C:\Users\cp932249\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\obj\Debug\CHSRMembershipProvider.xml
 C:\Users\cp932249\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\obj\Debug\CHSRMembershipProvider.pdb

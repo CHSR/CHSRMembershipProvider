@@ -15,3 +15,13 @@ C:\Users\cp932249\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider
 C:\Users\cp932249\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\obj\Release\CHSRMembershipProvider.dll
 C:\Users\cp932249\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\obj\Release\CHSRMembershipProvider.xml
 C:\Users\cp932249\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\obj\Release\CHSRMembershipProvider.pdb
+C:\Users\bs743869\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\obj\Release\CHSRMembershipProvider.dll
+C:\Users\bs743869\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\obj\Release\CHSRMembershipProvider.xml
+C:\Users\bs743869\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\obj\Release\CHSRMembershipProvider.pdb
+C:\Users\bs743869\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\bin\Release\CHSRMembershipProvider.dll
+C:\Users\bs743869\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\bin\Release\CHSRMembershipProvider.pdb
+C:\Users\bs743869\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\bin\Release\CHSRMembershipProvider.xml
+C:\Users\bs743869\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\obj\Release\CHSRMembershipProvider.vbprojResolveAssemblyReference.cache
+C:\Users\bs743869\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\obj\Release\CHSRMembershipProvider.Resources.resources
+C:\Users\bs743869\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\obj\Release\CHSRMembershipProvider.vbproj.GenerateResource.Cache
+C:\Users\bs743869\Documents\GitHub\CHSRMembershipProvider\CHSRMembershipProvider\obj\Release\CHSRMembershipProvider.vbproj.CoreCompileInputs.cache
